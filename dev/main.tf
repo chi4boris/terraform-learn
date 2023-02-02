@@ -18,6 +18,4 @@ module "my_ec2" {
   subnet_id     = "${module.my_vpc.subnet_id}"
 }
 
-
-#This is just a sample code.
-##another sample code
+#SAMPLE DEV CODE FOR PULL REQUEST
